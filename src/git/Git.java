@@ -17,7 +17,7 @@ public class Git {
         // TODO code application logic here
         
         System.out.println("Hola mundo");
-        System.out.println("Rolando");
+      
         System.out.println("geova");
 
     }
